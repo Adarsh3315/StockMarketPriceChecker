@@ -1,4 +1,4 @@
-# Stock Market Price Checker Documentation
+# Stock Market Price Checker
 
 ## Overview
 The **Stock Market Price Checker** application provides a convenient way to check real-time stock prices. It supports both international and Indian stock markets, using Yahoo Finance as the data source. The application is built with Python and Tkinter, ensuring an intuitive graphical user interface.
